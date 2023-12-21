@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+  h2{
+    color: aqua;
+    text-align: center;
+  }
+  a{
+    border: 5px solid rgb(0, 0, 0);
+    padding: 30px;
+  }
+  h6{
+    text-align: center;
+    background-color: rgb(251, 251, 0);
+    color: gray;
+  }
+  
+
+  
